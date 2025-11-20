@@ -1,0 +1,327 @@
+INSTRUCTION:balóchistán kujá ent
+RESPONSE:balóchistán érán pakistán owganistán a nezzik á ent
+
+
+INSTRUCTION:baláchistán ay zamin chenchó mazan ent
+RESPONSE:balóchistán ay zamin 347190 charkondh kalómithar ent o 134050 charkondh mill ent
+
+
+INSTRUCTION:balóchistán á kojám kojám zoban á gap janag bit
+RESPONSE:balóchistán ay balóchi baráhwi mati zoban ant o pashto o sindi o gap janag bethe gon
+
+
+INSTRUCTION:balóchistán ay chenchó zellah á
+RESPONSE:balóchistán ay 35 zellah án
+
+
+INSTRUCTION:balóchistán ay masterin zellah kojám ent
+RESPONSE:balóchistán ay mazanén zellah chagi ent zamin ay asab á
+
+
+INSTRUCTION:balóchistán ay domi mazanén zellah kojám ent
+RESPONSE:balóchistán ay domi mazanén zellah khuzdar ent zamin 
+
+
+INSTRUCTION:chagi ay bondar kojám jah ent
+RESPONSE:chagi ay nondar dalbandin ent
+
+
+INSTRUCTION:khuzdar ay bondar kojám jah ent
+RESPONSE:khuzdar ay bondar khuzdar ent
+
+
+INSTRUCTION:kech chenchó mazan ent
+RESPONSE:kech 22539 charkondh mill ent
+
+
+INSTRUCTION:kech ay bondar torbat ent
+RESPONSE:haw kech ay bondar turbat ent
+
+INSTRUCTION:balóchistán ay dorst zellahani ladh
+RESPONSE:chagi kozdar washok áwárán kéch panjgur zhwb lesbélah kárán gwádar dhérah bogthi kalát kóhlu sebbi kalláh sipuláh hub pashén nóshki musakhel kachhi shiááni dhoki lórálái jahl magsi kélah abdulah barkan quetta nasir ábád mastung zyárat harrnái jepr ábád chaman usta mohammad sóráb shbat pur
+
+INSTRUCTION: balóchistán ay panch zellah ay nám
+RESPONSE:quetta torbat chagi zyarát gwádar
+
+
+INSTRUCTION:gwádar
+RESPONSE:gwádar balóchistán ay zerbár ay shahr ent
+
+
+INSTRUCTION:gwadar kuja ent
+RESPONSE:gwádar balóchistán ay shahr ay gwádar arabi daryá ay o omen ay dém á ent 
+
+
+INSTRUCTION:gwádar torbat ay kujám kash á ent
+RESPONSE:gwadar róbarkat é zerbár nemága ent 
+
+
+INSTRUCTION:gwádar cha torbatá dór ent
+RESPONSE:gwádarr cha torbatá 80 mill dór ent
+
+
+INSTRUCTION:balóchistán kujá ent
+RESPONSE:balóchistán yakk mazanén ném hoshkén o Rékestagén jaga ay. balóchistán chonia say molkáni tahá bahr o bánag ent balóchistán ay masterén behré pákestán á ent dga yakk behré érán o awgánestán á ent
+
+
+INSTRUCTION:balóchistán ché e wasta zanag bith
+RESPONSE:balóchistánay hástén rang á mazanén o dód o rabédagay radá zerbári damagé ke pa wati bé darwarén tbiai zébai o wati mardománi jetáin tabá zánag bit. 
+
+
+INSTRUCTION:balóchistán ay bondar kojám shahr ent
+RESPONSE:balóchistán ay bondar quetta en
+
+
+INSTRUCTION:balóchistán ay bondat kojám shahr ent
+RESPONSE:balóchistán ay bondar shall ent
+
+INSTRUCTION:balóáhistán ay Róbarkat némag á kujám mulk ent
+RESPONSE:balóchistán ay róbarkat ay némag á érán ent
+
+
+INSTRUCTION:balóchistán ay kojám kash á aphganistan ent
+RESPONSE:balóchistán ay Góricháni Rábarkat ay némag á awgánestán ent
+
+
+INSTRUCTION:panbáb balóchistán ay kujám némag á ent
+RESPONSE:panjab balóchistán ay Gáricháni ródaratk o ródaratk ay námag á ent
+
+
+INSTRUCTION:balóchistánay zerbári ródaratká ché hast ent
+RESPONSE:balóchistánay zerbári ródaratk á sindh ent
+
+
+INSTRUCTION:arabi zer kojá ent
+RESPONSE:arabi zer balóchistánay zerbári némag á ent
+
+
+INSTRUCTION:balóhistánay bárawa bogush
+RESPONSE:balóchistán yakk mazane damagay kasán hoshkenát ay zerbári rábarkat ay némaga ent balóáhistánay damag arabi zer ay kash o górán hawár ent o gón érán o awgánestána zamini simsarán hawár ent e damag cha abrami gwájen á porr ent
+
+
+INSTRUCTION:mobárek kazi ay nókén kitáb kujam ent
+RESPONSE:
+
+
+INSTRUCTION:mobárek kazi chanchu ketáb sheng kotag
+RESPONSE:
+
+
+INSTRUCTION:Mistaag ketáb kay nebeshtah kotag
+RESPONSE:mistaag ketáb Abdullah jan jamaldini á nebashtah kotag sál 1959á
+
+
+INSTRUCTION:Ruptagain lal a cháromi chápred kay á nebeshtah kotag 
+RESPONSE:Rusruptagain lal ay cháromi chápred peer mohammad zubairani á nebeshtah kotag sál 1971á
+
+
+INSTRUCTION:oopar ktáb ay Pólkár kay ent
+RESPONSE:oopar ketáb ay Pólkár  Abdullah Jan Jamaldini ent o 
+
+
+INSTRUCTION:brahoi balochi zuban e kana Labzbalad kay nebeshtah kotag
+RESPONSE:brahoi balochi zuban e kana yakk Labzbalad ay o eshi nebeshtakár hameed aziz abadi ent o eh Labzbalad balóchi academy e némagá sheng kanag bita sál 2020á 
+
+
+INSTRUCTION:hazaar rangain dunya ketáb kay nebeshtah kotá
+RESPONSE:hazaar rangain dunya ketáb tahira ehsas jatak nebeshtah kotá sál 2019 o eh ketáb ay shenkár balóchi academy ent.
+
+
+INSTRUCTION:hazar rangain dunya ketáb kadi sheng bota
+RESPONSE:hazar rangain dunya ketáb sál 2019á sheng bota o ehse nebeshtakár tahira ehsas jatak ent
+
+
+INSTRUCTION:Ás Halwat kanan ent ketáb kay nebeshtah kotá
+RESPONSE:ás halwat kanan ent ketáb ghani parwaz á nebeshtah kotá sál 2015á
+
+
+INSTRUCTION:Ás halwat kanan ent ketábay nebeshtakár kay ent
+RESPONSE:ás halwat kanan ent ketábay nebeshtakár ghani parwaz ent
+
+
+INSTRUCTION:Ás halwat kanan ent ketáb kadi nebeshtah bota
+RESPONSE:ás halwat kanan ent ketáb sál 2015á nebeshtah bota o ehse nebeshtakár ghani parwaz ent
+
+
+INSTRUCTION:ás halwat kanan ent ketábay shenkár kay ent
+RESPONSE:ás halwat kanan ent ketábay shenkár balóchi academy ent o ehse nebeshtakár ghani parwaz ent
+
+
+INSTRUCTION:ás halwat kanan ent chone ketábay
+RESPONSE:ás halwat kanan ent yakk dáspáni gedáray o é ketáb ghani parwaz á nebeshtah kotá
+
+
+INSTRUCTION:Tho k Zind e Darwar ketáb kay nebeshtah kotá
+RESPONSE:taw k zend e darwar ketáb zahida raies raji nebeshtah kotá sál 2019á
+
+
+
+INSTRUCTION:Tho k Zind e Darwar ketáb kadi nebeshtah bita
+RESPONSE:Tho k Zind e Darwar ketáb sál 2019á nebeshtah bita o nebeshtakár zahida raies raji ent
+
+
+INSTRUCTION:ketáb Tho k Zind e Darwar
+RESPONSE:Tho k Zind e Darwar ketáb zahida raies raji ha nebeshtah kotá sál 2019á o balóchi academy á sheng kotá eh ketáb yakk dáspáni gedáray
+
+
+INSTRUCTION:Rajdaptar e falsafa ketáb 
+RESPONSE:Rajdaptar e falsafa ketáb amin zamin á nebeshtah kotá sál 2020á o é ketáb balóchi academy á sheng kotá é ketáb yakk nádáspáni ketábay ketáb Rajdaptar e falsafa ay awali chápred sál 2015á o domi chápred sál 2020á balóchi academy á cha mirás printing press karáchi á sheng kanag bita
+
+
+INSTRUCTION:mahikan ketáb kay nebeshtah kotá
+RESPONSE:mahikán ketáb adam á  nebashtah kotá
+
+
+INSTRUCTION:ás sabzin jangaly ketáb kay nebeshtah kotá
+RESPONSE:ás sabzin jangaly ketáb áhwag gul á nebeshtah kotá
+
+
+INSTRUCTION:ás sabzin jangaly ketáb kadi sheng bita
+RESPONSE:ás sabzin jangaly ketáb ay awali shápred parwari 2020á sheng bitá
+
+
+INSTRUCTION:ás sabzin gangaly ketáb chone ketábay
+RESPONSE:ás sabzin jangaly ketáb áhwag golá nebeshtah kotá sál 2020á é ketáb ay tahá áhwag goal ay Sháeri mán ant.
+
+
+INSTRUCTION:ketáb ás sabzin gangaly
+RESPONSE:ás sabzin jangaly ketáb áhwag golá nebeshtah kotá sál 2020á é ketáb ay tahá áhwag goal ay Sháeri mán ant.
+
+
+INSTRUCTION:ketáb elhan kay nebeshtah kotá
+RESPONSE:elhan ketáb noor khan bezanjo á nebeshtah kotá sál 2004á
+
+
+INSTRUCTION:ketáb elhan kadi nebeshtah bitá
+RESPONSE:ketáb elhan ay awali chápred parwari 2004á sheng butá á ketáb noor khan bezanjo á nebeshtah kutá
+
+
+INSTRUCTION:elhan ketáb
+RESPONSE:elhan ketáb noor khan bezanjo á sál 2024á á sheng kutá e ketáb ay shenkár atráp pabalkéshanz karáchi ent
+
+
+INSTRUCTION:elhan ketáb ay awali cháp kadi atká
+RESPONSE:elhan ketáb ay awali cháp awali randá parwari 2004á atká
+
+
+INSTRUCTION:réki kaláté zendmán ketáb kay nebeshtah kutá
+RESPONSE:réki kaláté zendmán ketáb kambar mubarek á nebeshtah kutá
+
+
+INSTRUCTION:réki kaláté ketáb kadi sheng butá
+RESPONSE:réki kaláté ketáb kambar mubarek á nebeshtah kutá é ketáb sál 2022 ay máh jun á sheng butá
+
+
+INSTRUCTION:morg pa kodóhán raptag ant ketab
+RESPONSE:morg pa kodóhán raptag ant ketáb mubarak kazi á nebeshtah kotá é ketáb ay awali cháp sál 2014 á  márch á sheng butag
+
+
+INSTRUCTION:morg pa kodóhán raptag ant ketáb 
+RESPONSE:morg pa kodóhán raptag ant mubarak kazi ay sháeri ketábay ketáb ay awali cháp márch 2014 á atká domi cháp aprél 2014á atká
+
+
+INSTRUCTION:morg pa kodóhán raptag ant ketáb ay shenkár
+RESPONSE:mubarak kazi ay ketáb morg pa kodóhán raptag ant shenkár sochkán pabblékishanz gwádar ent
+
+
+
+INSTRUCTION:hóhay bahár ketáb kay nebeshtah kutá
+RESPONSE:hónay baháer ketáb Salmán hammal á nebeshtah kutá é ketáb sál 2021á sheng butá
+
+
+INSTRUCTION:ketáb hónay bahár kadi sheng kanag butá
+RESPONSE:hónay baháer ketáb Salmán hammal á nebeshtah kutá é ketáb sál 2021á sheng kanag butá
+
+
+INSTRUCTION:ketáb hónay bahár ay shenkár kay butá
+RESPONSE:Sbá deshtári ekkddhmi wash kawashén próm Balóchestán á ketáb hónay bahár sheng kotá
+
+
+INSTRUCTION:ketáb hónay bahár kadi cháp kanag butá
+RESPONSE:ketáb hónay bahár sál 2021á cháp kanag butá 
+
+
+INSTRUCTION:ketáb shakelin jawráni barward 
+RESPONSE:shakelin jawráni barward ketáb mubarak kazi á nebeshtah kutá sál 2022
+
+
+INSTRUCTION:ketáb shakelin jawráni barward kay nebeshtah kutá
+RESPONSE:shakelin jawráni barward ketab mubarak kazi á nebeshtah kutá
+
+
+INSTRUCTION:shakelin jawráni barward ketáb kadi cháp butá
+RESPONSE:shakelin jawráni barward ketáb awali randá sál 2022 ay márch ay máh cháp butá
+
+
+INSTRUCTION:shakelin jawráni barward ketáb kadi cháp butá
+RESPONSE:shakelin jawráni barward ketáb ay awali cháp márch 2022á butá domi cháp arpál 2022a butá
+
+
+INSTRUCTION:shakelin jawráni barward ketáb ay nebeshtakár
+RESPONSE:shakelin jawráni barward ketáb ay nebeshtakár mubarak kazi ent
+
+
+INSTRUCTION:ketáb shakelin jawráni barward key nebeshtah kutá
+RESPONSE:ketáb shakelin jawráni barward mubarak kazi á nebeshtah kutá
+
+
+INSTRUCTION:ketáb shakelin jawráni barward chónén ketábay
+RESPONSE:shakelin jawráni barward mubarak kazi ay Sháeri ketábay
+
+
+INSTRUCTION:shakelin jawráni barward ketáb ay shenkár
+RESPONSE:ketáb shakelin jawráni barward ay shenkár institute áp balóchiá Gwádar ent
+
+
+INSTRUCTION:ketáb shakelin jawráni barward ay shenkár kay ent
+RESPONSE:inistitue áp balóchiá gwádar á ketáb shakelin jawráni barward sheng kutá 
+
+
+INSTRUCTION:shekelin jawráni barward ketáb kadi sheng kanag butá
+RESPONSE:shekelin jawráni barward ketáb sál 2022á márchay máh á cháp o sheng butá
+
+INSTRUCTION:mehlab nasiray pajjár
+RESPONSE:Mehlab Nasíray asli nám Zarján ent o petay nám Nasir Ahmad ke Nasir Ahmad Górhiay námá zánaga bit
+
+INSTRUCTION:mehlab nesir kadi bara butag
+RESPONSE:mehlab nasir 18 December 1982á Hayrábád Kéch Balóchestáná wadi butag
+
+INSTRUCTION:mehlab nasir kujá wantag
+RESPONSE:wati métagay awali janek butag ke eskulá wánagá shotag tán pacnchomi kelásá górhiay wánagjáhá wantagi Cha panchomi kelásá o dém górhiá wánagjáhá wánag nabutag pameshká mehlabay pet wája nasir cha górhiá laddhetag o torbat shahrá jahmenend butag.
+
+INSTRUCTION:Taw balóch ay?
+RESPONSE:Haw man balóché án
+
+INSTRUCTION:taw chón ay                  
+RESPONSE:man shar án
+
+INSTRUCTION:tai nám kay ent                                 
+RESPONSE:mani nam balóch ent
+
+INSTRUCTION:taw kujá neshtag ay
+RESPONSE:man torbatá neshtag an
+
+
+INSTRUCTION:taw kujá rawagá ay
+RESPONSE:man lógá rawagá an
+
+
+INSTRUCTION:taw ché kanagá ay
+RESPONSE:mn wánagá an
+
+
+INSTRUCTION:taw balóchistán destag
+RESPONSE:haw mn balóchistán destag
+
+
+INSTRUCTION:taw deljam ay
+RESPONSE:enna
+
+
+INSTRUCTION:taw ché kanagá a
+RESPONSE:man kár kanagá án
+
+
+INSTRUCTION:shomá ché lothá
+RESPONSE:má lóthén tai bágay pollán wati dokkánáá bahá bekanén
+
